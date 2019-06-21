@@ -27,6 +27,9 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
 
+#SETTINGS_PATH = os.path.dirname(os.path.dirname(__file__))
+
+#TEMPLATE_DIRS = (r'C:\djangoboys\blog\template',)
 
 # Application definition
 
